@@ -1,1 +1,3 @@
-# travel-planner-pro-8031
+# Project Repository
+
+This is the initial README file for the project.
